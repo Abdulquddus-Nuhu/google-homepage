@@ -21,3 +21,14 @@ color: azure;
 #images:hover,#gmail:hover{
   text-decoration: underline;
 }
+
+/**********************
+GOOGLE LOGO
+**********************/
+.google-logo{
+  max-width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 109px;
+}
